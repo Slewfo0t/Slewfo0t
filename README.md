@@ -1,4 +1,4 @@
-### Mia "Motherfuckin" Taylor
+# Mia Taylor
+she/her
 ***
-Project Manager and Team Lead at Kyraview
-
+## Project Manager and Team Lead at Kyraview
